@@ -11,4 +11,4 @@ C) Luego, redacta un documento en formato Word que detalle el propósito y el fu
  * Destaca los elementos clave del código y cómo interactúan entre sí para lograr la funcionalidad deseada.
  * Asegúrate de incluir capturas de pantalla relevantes o fragmentos de código para respaldar tus explicaciones.
 
- HUMANES 2024
+ HUMANES 2023/24
