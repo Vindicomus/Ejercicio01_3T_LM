@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Contraseña</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <form class="box">
+        <div class="input__wrapper">
+            <input id="password" type="password" class="input__field" pattern="^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{6,}$"
+                placeholder="Tu contraseña">
+            <label for="contraseña" class="input__label">
+                Contraseña
+            </label>
+            <img alt="Eye Icon" title="Eye Icon" src="img/eye.svg" class="input__icon">
+        </div>
+    </form>
+    <script src="script.js"></script>
+
+</body>
+
+</html>
